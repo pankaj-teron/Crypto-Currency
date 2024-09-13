@@ -1,2 +1,2 @@
 # Crypto-Currency
-Crypto-Currency app react
+Crypto-Currency Tracker App Using React
