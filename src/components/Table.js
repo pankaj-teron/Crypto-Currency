@@ -169,7 +169,7 @@ const Table = () => {
         <span>
           Project Created by{" "}
           <b className="text-cyan">
-            Pankaj & Yash
+            Pankaj Teron
           </b>
         </span>
         <Pagination />
