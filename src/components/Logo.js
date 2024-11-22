@@ -7,7 +7,7 @@ const Logo = () => {
     className='absolute  [text-decoration:none] text-lg text-cyan flex items-center sm:text-lg sm:left-[1.5rem] sm:top-[1.5rem]'
     >
         <img className="h-auto w-[25%]" src={logoSvg} alt='CryptoCurrency'/>
-        <span>CryptoNest</span>
+        <span>Cryptonik</span>
     </Link>
   )
 }
